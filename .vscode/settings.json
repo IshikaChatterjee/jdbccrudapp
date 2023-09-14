@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\xampp\\mysql\\mysqlconnector\\mysql-connector-j-8.1.0.jar"
+        ],
+        "exclude": [
+            "c:\\xampp\\mysql\\mysqlconnector\\mysql-connector-j-8.1.0.jar"
+        ]
+    }
+}
